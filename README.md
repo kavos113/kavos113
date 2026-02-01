@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![top languages](./generate-stats/image/image.svg)
+
+### Currently Interest In
+- Graphics Programming (like DirectX, Vulkan)
