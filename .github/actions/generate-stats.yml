@@ -43,7 +43,7 @@ jobs:
       - name: Generate stats SVG
         run: pnpm generate
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.API_TOKEN }}
           EXCLUDE_REPOS: ${{ secrets.EXCLUDE_REPOS }}
 
       - name: Commit and push changes
